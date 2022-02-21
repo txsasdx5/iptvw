@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="THAI PBS" group-title="Digital.TV" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6o1e.md.png" ,THAI PBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-
 #EXTINF:-1  tvg-id="ALTV4" group-title="Digital.TV" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6VKg.md.png",ALTV4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CH7" tg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" ,CH7 HD 
 https://bbtvalive-hd-aes-vc-hw.bugaboo.tv/out/v1/b4d339b9eb6e4d01a9750b8229be1a43/index_1.m3u8
 #EXTINF:-1 tvg-id="CH9" tg-logo="https://pbs.twimg.com/media/COdhAGOUwAEKqsc.jpg",MCOT HD
